@@ -5,7 +5,7 @@ High cholestrol levels and late eating
 **Did you know that one in three American adults**
 has high blood pressure? That number may surprise you. According to a report from the American Heart Association, high blood pressure contributes to nearly 1,000 deaths per day. For this reason, it’s important to have your blood pressure checked regularly — and get treatment if you have high blood pressure.
 ***
-Major factors
+**Major factors**
 The exact causes of high blood pressure are not known. However, some things may play a role in its development, including:
 
 1. Smoking
@@ -23,7 +23,7 @@ The exact causes of high blood pressure are not known. However, some things may 
 4. Kidney disease
 5. Obstructive sleep apnea
 6. Thyroid problems
-Complications
+**Complications**
 ```
 Heart attack or stroke. Hardening and thickening of the arteries due to high blood pressure or other factors can lead to a heart attack, stroke or other complications.
 Aneurysm. Increased blood pressure can cause a blood vessel to weaken and bulge, forming an aneurysm. If an aneurysm ruptures, it can be life-threatening.
@@ -34,3 +34,11 @@ Metabolic syndrome. This syndrome is a group of disorders of the body's metaboli
 Changes with memory or understanding. Uncontrolled high blood pressure may affect the ability to think, remember and learn.
 Dementia. Narrowed or blocked arteries can limit blood flow to the brain. This can cause a certain type of dementia called vascular dementia. A stroke that interrupts blood flow to the brain also can cause vascular dementia.
 ```
+Results
+<img width="637" height="358" alt="image" src="https://github.com/user-attachments/assets/8d255786-39ac-442f-b803-e02223aa6a94" />
+Summary and conclusion
+As chronic kidney disease develops, many people will develop hypertension, they seem to go hand in hand. Conversely, people with hypertension develop chronic kidney disease as well," says Dr. Porter. "Control of high blood pressure is one of the most important things we can do when someone has chronic kidney disease."
+
+And how you control it, mostly involves lifestyle changes.
+
+"The thing about high blood pressure is it responds to many of the things we do in our lifestyle: regular exercise, avoiding processed foods, reduction of our sodium intake, more fruits and vegetables in our regular diet," says Dr. Porter. "Sometimes those lifestyle changes aren't enough. And these are the patients that need medications to help with blood pressure control. But we can make a huge impact with the decisions we make in our lifestyle to control blood pressure
