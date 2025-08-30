@@ -1,4 +1,6 @@
 # Causes of Blood pressure
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/0031f66d-7da9-4051-aa5a-bdb6df8e73c5" />
+
 High cholestrol levels and late eating 
 **Did you know that one in three American adults**
 has high blood pressure? That number may surprise you. According to a report from the American Heart Association, high blood pressure contributes to nearly 1,000 deaths per day. For this reason, it’s important to have your blood pressure checked regularly — and get treatment if you have high blood pressure.
@@ -21,3 +23,14 @@ The exact causes of high blood pressure are not known. However, some things may 
 4. Kidney disease
 5. Obstructive sleep apnea
 6. Thyroid problems
+Complications
+```
+Heart attack or stroke. Hardening and thickening of the arteries due to high blood pressure or other factors can lead to a heart attack, stroke or other complications.
+Aneurysm. Increased blood pressure can cause a blood vessel to weaken and bulge, forming an aneurysm. If an aneurysm ruptures, it can be life-threatening.
+Heart failure. When you have high blood pressure, the heart has to work harder to pump blood. The strain causes the walls of the heart's pumping chamber to thicken. This condition is called left ventricular hypertrophy. Eventually, the heart can't pump enough blood to meet the body's needs, causing heart failure.
+Kidney problems. High blood pressure can cause the blood vessels in the kidneys to become narrow or weak. This can lead to kidney damage.
+Eye problems. Increased blood pressure can cause thickened, narrowed or torn blood vessels in the eyes. This can result in vision loss.
+Metabolic syndrome. This syndrome is a group of disorders of the body's metabolism. It involves the irregular breakdown of sugar, also called glucose. The syndrome includes increased waist size, high triglycerides, decreased high-density lipoprotein (HDL or "good") cholesterol, high blood pressure and high blood sugar levels. These conditions make you more likely to develop diabetes, heart disease and stroke.
+Changes with memory or understanding. Uncontrolled high blood pressure may affect the ability to think, remember and learn.
+Dementia. Narrowed or blocked arteries can limit blood flow to the brain. This can cause a certain type of dementia called vascular dementia. A stroke that interrupts blood flow to the brain also can cause vascular dementia.
+```
