@@ -23,6 +23,7 @@ The exact causes of high blood pressure are not known. However, some things may 
 4. Kidney disease
 5. Obstructive sleep apnea
 6. Thyroid problems
+
 **Complications**
 ```
 Heart attack or stroke. Hardening and thickening of the arteries due to high blood pressure or other factors can lead to a heart attack, stroke or other complications.
